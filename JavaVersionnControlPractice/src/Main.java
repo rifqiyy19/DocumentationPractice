@@ -1,7 +1,8 @@
 public class Main {
     public static void main(String[] args) {
         String nama = "Rifqi";
-        System.out.println("Hello " + nama);
+        int umur = 18;
+        System.out.println("Hello " + nama + "umur :" +umur);
 
     }
 }
